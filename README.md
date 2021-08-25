@@ -2,8 +2,8 @@
 
 This repository contains the code for the paper:
 
-[Guneet Singh Dhillon](https://guneet-dhillon.github.io/), [Pratik Chaudhari](https://pratikac.github.io/), Avinash Ravichandran, [Stefano Soatto](http://web.cs.ucla.edu/~soatto/)
-**A Baseline for Few-Shot Image Classification** ([pdf](https://openreview.net/pdf?id=rylXBkrYDS))
+[Guneet Singh Dhillon](https://guneet-dhillon.github.io/), [Pratik Chaudhari](https://pratikac.github.io/), Avinash Ravichandran, [Stefano Soatto](http://web.cs.ucla.edu/~soatto/)  
+**A Baseline for Few-Shot Image Classification** ([pdf](https://openreview.net/pdf?id=rylXBkrYDS))  
 *In Proceedings of the International Conference on Learning Representations (ICLR), 2020*
 
 ## Abstract
