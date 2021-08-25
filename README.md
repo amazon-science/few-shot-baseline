@@ -36,6 +36,8 @@ url={https://openreview.net/forum?id=rylXBkrYDS}
 
 Each dataset has a folder of its own, with individual README files.
 
+Meta-Dataset can be used with this code-base as well. See the paper for the complete set of results.
+
 ### Meta-Training
 
 The meta-training phase takes the following arguments:
